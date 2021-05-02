@@ -1,0 +1,78 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//E1M2 - By kevansevans
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Hey thanks for reading!
+
+This is the start of an experimental community mapping project where each mapper has to build on top
+of the previous mappers work, and is free to do whatever. It was an interesting experience to look
+at the famous E1M1 and try to "improve" upon it. On a technical level, how does one improve upon
+something that famous? Well a lot of changes I focused on were turning E1M1 into a more "tutorial"
+level.
+
+This outlook comes from Tim Roger's review of Doom: https://www.youtube.com/watch?v=38zduHkwGcc
+Long long video aside, the part that drew my inspiration is where Tim cites E1M1 as being the level
+that teaches players all of the mechanics Doom will use.
+
+This is obviously false, there's so much not in E1M1 that you can still learn things as you play. 
+So that was my goal, I aimed to fix this and make E1M1 teach players "most" of the mechanics. I
+obviously couldn't do this for EVERYTHING, but I could get close without spoiling all of the games
+surprises.
+
+Plus some added details I guess.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+1) First major change I made was to show that geometry can change. Walking into the left room
+will make the stairs raise and the upper platform accessible.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+2) The zig zag toxic pit is technically pointless. Unless you're a twit who chooses to stand in it,
+movement through this room rarely results in the player getting damaged and not really
+conveying it's a dangerous spot. I lowered the pit, because everyone knows pits are bad to fall into.
+If the player were to fall off the edge, they'd learn about topxic floors and to find the elevator out.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+3) To reenforce the idea that geometry could change, I thought it'd be cool to make the famous 
+zig zag raise out of the ooze. So I spent a few minutes crafting a room adjacent to the mid
+indoor room.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+4) Keys at this point struck me. Adding the blue key was a bit tricky, and I wanted to make
+it required in order to progress.
+
+I knew I wanted it to be in that outside area. Romero has a famous rule, where if the player
+can see outside, let them go outside. The spot I'm refering to is inaccessible in the vanilla wad,
+so I aimed to fix that. This isn't where the blue key ended up, but on that later.
+
+First problem that came up was accessing it. Originally it was a switch added to the south most tech 
+pillar akin to the north one, but there was no real indicator you were supposed to be looking for it.
+
+Second problem that arose was what door I wanted to lock. Originally I had the exit door locked with the
+blue key. I later realized this might be a bit of a slap to the face, when the player gets all the way
+to the end, only to find out they needed to back track.
+
+After some thinking, I turned this into a small puzzle. While the key now is where the green armor used
+to be, there's a whole platform missing! I added a very obvious door instead of a switch that makes the
+out door area accessible, and following the path leads to a switch that raises a platform, making the key
+accessible. I then made the door between the starting area and the mid-room the new blue lock, so if
+players were a little too gun-ho about getting to the end, the blockade wouldn't feel as bad.
+
+I shortly added the red key and locked door after to show the player that there's different locked doors.
+I could have made it so it was just the red key, but that would have undone the fix that let the player
+go outside, and I wanted to make sure that got noticed.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+5) One secret got a bit cleaned up. To teach the player that back tracking is sometimes needed, and that
+more secrets than just the blue armor one exist, I gave a better hint that there's a room behind
+where the two imps are. Where the player would observe this, the platform hadn't lowered yet, so their
+first instinct to back track may leave them with the notion they haven't triggered the exact event yet.
+
+I left alone the quick access to the blue armor. Initially I wanted to remove this one, but as I thought
+about it, it works as a shortcut to bypass the key cards.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+6) The added secret I put in myself I took as oppourtunity to story tell a little. I made that ledge
+accessible and sprinkled a few items to get the player to think a bit more about investigating.
+I purposefully didn't flag the spot as a secret and hid the real secret behind a wall with small
+visual hints. In the real secret, I put a dead pinky in it with a dead marine. I imagine people back 
+in '93 would see this and wonder what it was, speculate on the fact that there's bigger demons to face.
