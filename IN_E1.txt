@@ -1,0 +1,17 @@
+NoAutoStartMap
+Background WIMAP0
+Splat wisplat
+Pointer wiurh0 wiurh1
+
+Spots
+{
+	E1M1 181 180
+	E1M2 162 178
+	E1M3 193 176
+	E1M4 174 174
+	E1M5 190 172
+	E1M6 189 173
+	E1M7 198 175
+	E1M8 167 177
+	E1M9 176 179
+}
