@@ -1,0 +1,12 @@
+Changes I've made:
+
+- Polished unaligned textures and textures in general
+- Tweaked monster/item spawns (i hate too much ammo in maps)
+- Tweaked various areas
+- Improved various areas
+- Added 2.5 new rooms
+- Made yellow key room secret a little more obvious (maybe???)
+- Added more deathmatch spawns, and a plasma rifle for multiplayer
+
+I've never tried fixing a level before, unless you count when I first started mapping, which was a big yikes. I've never fixed a level while
+being decent. I've also never tried to imitate the style of the classic doom maps, so I hope I did alright.
