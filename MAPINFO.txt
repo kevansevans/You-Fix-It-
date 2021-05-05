@@ -40,7 +40,7 @@ map E1M1 "Hangar"
 	Music = "D_E1M1"
 }
 
-map E1M2 "Hangar"
+map E1M2 "Hangar.2"
 {
 	Author = "kevansevans" 
 	LevelNum = 2
@@ -52,9 +52,9 @@ map E1M2 "Hangar"
 	Music = "D_E1M1"
 }
 
-map E1M3 "Hangar"
+map E1M3 "Hangar V3"
 {
-	Author = "No Map" 
+	Author = "leodoom85" 
 	LevelNum = 3
 	Next = E1M4
 	Sky1 = SKY1
@@ -64,7 +64,7 @@ map E1M3 "Hangar"
 	Music = "D_E1M1"
 }
 
-map E1M4 "Hangar"
+map E1M4 "H4ngar"
 {
 	Author = "No Map" 
 	LevelNum = 4
@@ -76,7 +76,7 @@ map E1M4 "Hangar"
 	Music = "D_E1M1"
 }
 
-map E1M5 "Hangar"
+map E1M5 "Hangar Five"
 {
 	Author = "No Map" 
 	LevelNum = 5
@@ -88,7 +88,7 @@ map E1M5 "Hangar"
 	Music = "D_E1M1"
 }
 
-map E1M6 "Hangar"
+map E1M6 "Hangar666.exe"
 {
 	Author = "No Map" 
 	LevelNum = 6
@@ -100,7 +100,7 @@ map E1M6 "Hangar"
 	Music = "D_E1M1"
 }
 
-map E1M7 "Hangar"
+map E1M7 "Hangar 7: The Hangaring"
 {
 	Author = "No Map" 
 	LevelNum = 7
@@ -112,7 +112,7 @@ map E1M7 "Hangar"
 	Music = "D_E1M1"
 }
 
-map E1M8 "Hangar"
+map E1M8 "EIMVIII: Hangar"
 {
 	Author = "No Map" 
 	LevelNum = 8
