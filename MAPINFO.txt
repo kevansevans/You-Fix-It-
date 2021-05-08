@@ -66,7 +66,7 @@ map E1M3 "Hangar V3"
 
 map E1M4 "H4ngar"
 {
-	Author = "No Map" 
+	Author = "Dewzanity" 
 	LevelNum = 4
 	Next = E1M5
 	Sky1 = SKY1
@@ -78,7 +78,7 @@ map E1M4 "H4ngar"
 
 map E1M5 "Hangar Five"
 {
-	Author = "No Map" 
+	Author = "FishyClockwork" 
 	LevelNum = 5
 	Next = E1M6
 	Sky1 = SKY1
