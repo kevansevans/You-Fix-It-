@@ -1,0 +1,51 @@
+1) - Right near the start, I've made the stairs-up-to-armor area into a key-gate
+where the red key is needed to progress, beyond which is one of a few tiny
+"hell corners". For here, I wanted the player to tip their toes in sludge
+while fighting through a small passage.
+I felt the overall outdoor area beyond the former armor-on-pedestal spot
+needed some more expansion.
+
+2) - Following one of Romero's rules where every visible outdoor area
+has to be accesible to the player somehow, I've made that little window area
+that was introduced in E1M4 with some gore on a cliff into a secret for the
+soulsphere.
+
+3) - I felt like there were too many monster closets,
+first introduced in E1M3 and then carried over to E1M4. I've decided to remove
+most of those. That's why the north east area that was added in E1M2 was replaced
+with a tiny spoopy section, not too difficult combat wise.
+
+I thought to make the lostsouls (a deliberately rare) enemy mildly special by
+having them teleport ambush you. Nothing too fancy.
+
+4) - The only other similar teleport trap event is the secret chainsaw pickup.
+Only instead of lostsouls, it's pinkies or spectres depending on the difficulty level.
+
+5) - The crusher area where you get the red key, past the zigzag bridge was admittedly
+inspired by that one map in Romero's SIGIL wad.
+
+Another thing to notice is that two out of the three keys has nearby teleporters.
+The red one allows you to avoid going past the crushers again and the blue key one
+bypasses backtracking to the blue door. Like a small reward for getting the key
+instead of the obvious ambush that happens. (It still happens with the yellow key.)
+
+
+6) - Lastly I wanted the exit to not always be the same as it always was. So I chose
+what started as a secret area in E1M2 as the new exit.
+Given I was running out of time, the exit area isn't exactly to my satisfaction but it'll have
+to do.
+
+7) -  I almost forgot, I added a primitive (optional) puzzle for one of the secrets. :)
+(Oh, and a BFG with some cells, marked as "Multiplayer only". That's about the only
+deathmatch related change.)
+
+
+
+
+
+Overall, I wanted to introduce some new elements after E1M2 and M3 felt a little to samey,
+(especially with the monster closets). At the same time, I didn't want to deviate *too* much.
+Some E2 enemies were added, like cacos and lostsouls, but they're rare on purpose.
+Like things are just started to get interesting etc etc.
+
+And I guess I just wanted an excuse to try my hand at Ye-Olde Doom Map Format. It was fun.
