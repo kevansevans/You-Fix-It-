@@ -1,0 +1,51 @@
+Actor C3DMonster : Demon 100
+{
+	Health 500
+	PainChance 80
+	Speed 15
+	SeeSound "demon/sight"
+	ActiveSound "demon/active"
+	PainSound "demon/pain"
+	DeathSound "demon/death"
+	HitObituary "$OB_C3DMONSTER"
+	Obituary "$OB_C3DMONSTER"
+	Tag "$FN_C3DMONSTER"
+	States
+	{
+		Spawn:
+			C3DE ABCD 10 A_Look
+			Loop
+		See:
+			C3DE AABBCCDD 2 A_Chase
+			Loop
+		Melee:
+			C3DE E 8 Fast A_FaceTarget
+			C3DE F 8 Fast A_SargAttack
+			C3DE G 8 Fast
+			Goto See
+		Missile:
+			C3DE E 8 Fast A_FaceTarget
+			C3DE F 0 Fast A_SpawnProjectile("CacodemonBall",32,0,15,CMF_AIMOFFSET)
+			C3DE F 0 Fast A_SpawnProjectile("CacodemonBall",32,0,-15,CMF_AIMOFFSET)
+			C3DE F 0 Fast A_SpawnProjectile("CacodemonBall",32,0,6,CMF_AIMOFFSET)
+			C3DE F 0 Fast A_SpawnProjectile("CacodemonBall",32,0,-6,CMF_AIMOFFSET)
+			C3DE F 0 Fast A_SpawnProjectile("CacodemonBall",32,0,0,CMF_AIMOFFSET)
+			C3DE F 8 Fast A_FaceTarget
+			C3DE G 8 Fast
+			Goto See
+		Pain:
+			C3DE H 2 Fast
+			C3DE H 2 Fast A_Pain
+			Goto See
+		Death:
+			C3DE H 8
+			C3DE I 6 A_Scream
+			C3DE J 4 A_NoBlocking
+			C3DE K -1
+			Stop
+		Raise:
+			C3DE J 8
+			C3DE IH 6
+			Goto See
+	}
+}
