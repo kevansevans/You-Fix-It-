@@ -90,7 +90,7 @@ map E1M5 "Hangar Five"
 
 map E1M6 "Hangar666.exe"
 {
-	Author = "No Map" 
+	Author = "YukiHerz" 
 	LevelNum = 6
 	Next = E1M7
 	Sky1 = SKY1
@@ -102,7 +102,7 @@ map E1M6 "Hangar666.exe"
 
 map E1M7 "Hangar 7: The Hangaring"
 {
-	Author = "No Map" 
+	Author = "Rachael" 
 	LevelNum = 7
 	Next = E1M8
 	Sky1 = SKY1
