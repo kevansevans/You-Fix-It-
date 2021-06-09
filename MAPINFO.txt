@@ -112,11 +112,11 @@ map E1M7 "Hangar 7: The Hangaring"
 	Music = "D_E1M1"
 }
 
-map E1M8 "EIMVIII: Hangar"
+map E1M8 "HangarVIII - The Snyder cut"
 {
-	Author = "No Map" 
+	Author = "Vostyok" 
 	LevelNum = 8
-	Sky1 = SKY1
+	Sky1 = MARSKY
 	Cluster = 1
 	exitpic = "$IN_E1"
 	enterpic = "$IN_E1"
