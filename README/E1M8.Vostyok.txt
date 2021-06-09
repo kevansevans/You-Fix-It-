@@ -1,0 +1,12 @@
+I) Changed starting room slightly, since original didn't make much spacial sense unless the player was descending from above. This extends to the exterior sections, expanding their height and giving a more interesting layout, helping give it a similar open space feel like the original had.
+II) Some other areas, such as the radiation bridge, suffered from some spacial sense issues. Have given these a bit more believable beginnings and ends - the 'slime fall' is now fed by storage tanks outside.
+III) Added a 'whirlpool' to the nukage in the curved bridge room. Because. 
+IV) Added a helmet-cam monitor to show the rest of your buddies and their DooMed attempts to stop the Phobos invasion. Camera shifts to Game Over Man once the player leaves the initial starting area.
+V) Removed the "spider room", sadly, as it was giving me anxiety. Portals mess with my head like nothing else, :d
+VI) Some secret areas have been... made more interesting.
+VII) Enlarged the red key platform, as it felt overly restrictive. Now you have a bit more room to decide whether to fight or flight.
+VIII) Final showdown. But is the wad made by Romero, or is Romero made of the wad?
+
+And that should be it. Overall, tried to focus more on aesthetics and encounters rather than drastic change to layout. Overall, has been a joy to work on this.
+
+-V

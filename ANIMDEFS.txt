@@ -1,0 +1,8 @@
+// HelmetCam Console Texture
+texture optional HLMCAM1
+	pic HLMCAM1 tics 5
+	pic HLMCAM2 tics 5
+	pic HLMCAM3 tics 5
+	pic HLMCAM4 tics 5
+	pic HLMCAM5 tics 5
+	pic HLMCAM6 tics 5
