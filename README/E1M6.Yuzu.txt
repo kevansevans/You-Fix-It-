@@ -1,0 +1,6 @@
+Added a new starting room to spice things up a bit.
+Moved a room a bit and added a corridor, to fit the new starting room.
+Changed a secret to award a plasma rifle instead of a chainsaw, as the player is already given a chainsaw at the start.
+Added some silly deco to the large outdoor section, to make things more lively.
+Changed the position of the shootable switch in the outdoor section and added a little corridor to it.
+Added a shootable object that unleashes a secret section of the map with a new enemy.
