@@ -10,11 +10,11 @@ cluster 1
    flat = "FLOOR4_8"
    music = "$MUSIC_VICTOR"
    exittext = "The clock strikes 11 pm,",
-   "you've finally finish compiling the .wad",
-   "You know there are eager fans waiting to get ahold of your game",
+   "you've finally finish the .wad",
+   "You know there are eager fans waiting play your game",
    "Was it enough? Was it fixed? Was it worth the exhaustion?",
-   "When you were given thisnmap, you thougtht it was fine,",
-   "What else did it need...?",
+   "'The map was fine' you scowl",
+   "'What else did it need...?'",
    " ",
    "But you did it. You 'FIXED' it like you were told to.",
    "You hope it leaves a good impression...",
@@ -22,8 +22,10 @@ cluster 1
    " ",
    "======",
    " ",
-   "Big 'Thank You!' to everyone who participated in this experimental collaboration!",
-   "It was incredible seeing how people approached this and worked with the concept.",
+   "Big 'Thank You!' to everyone who participated",
+   "in this experimental collaboration!",
+   "It was incredible seeing how people approached ",
+   "this and worked with the concept.",
    "If this first run receives well, look forward to more 'Fix it' events!",
    " ",
    " - kevansevans, project director"
