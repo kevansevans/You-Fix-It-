@@ -1554,6 +1554,11 @@ Texture "SP_DUDE2", 128, 128
 	Patch "WALL50_2", 0, 0
 }
 
+Texture "SP_DUDE3", 64, 128
+{
+	Patch "WALL51_1", 0, 0
+}
+
 Texture "SP_DUDE4", 64, 128
 {
 	Patch "WALL51_2", 0, 0
@@ -1562,6 +1567,11 @@ Texture "SP_DUDE4", 64, 128
 Texture "SP_DUDE5", 64, 128
 {
 	Patch "WALL51_3", 0, 0
+}
+
+Texture "SP_DUDE6", 64, 128
+{
+	Patch "W108_1", 0, 0
 }
 
 Texture "SP_DUDE7", 128, 128
