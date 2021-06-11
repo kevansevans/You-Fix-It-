@@ -1,8 +1,12 @@
 clearepisodes
 
-episode e1m1
+gameinfo {
+
+}
+
+episode E1M1A
 {
-	name = "E1M1"
+	name = "Doom: E1M1 - Hangar"
 }
 
 cluster 1
@@ -32,21 +36,22 @@ cluster 1
    
 }
 
-map E1M1 "Hangar"
+map E1M1A "Hangar"
 {
 	Author = "John Romero" 
 	LevelNum = 1
-	Next = E1M2
+	Next = E1M1B
 	Sky1 = SKY1
 	Cluster = 1
 	Music = "D_E1M1"
+	exitpic = "$IN_E1"
 }
 
-map E1M2 "Hangar.2"
+map E1M1B "Hangar.2"
 {
 	Author = "kevansevans" 
 	LevelNum = 2
-	Next = E1M3
+	Next = E1M1C
 	Sky1 = SKY1
 	Cluster = 1
 	exitpic = "$IN_E1"
@@ -54,11 +59,11 @@ map E1M2 "Hangar.2"
 	Music = "D_E1M1"
 }
 
-map E1M3 "Hangar V3"
+map E1M1C "Hangar V3"
 {
 	Author = "leodoom85" 
 	LevelNum = 3
-	Next = E1M4
+	Next = E1M1D
 	Sky1 = SKY1
 	Cluster = 1
 	exitpic = "$IN_E1"
@@ -66,11 +71,11 @@ map E1M3 "Hangar V3"
 	Music = "D_E1M1"
 }
 
-map E1M4 "H4ngar"
+map E1M1D "H4ngar"
 {
 	Author = "Dewzanity" 
 	LevelNum = 4
-	Next = E1M5
+	Next = E1M1E
 	Sky1 = SKY1
 	Cluster = 1
 	exitpic = "$IN_E1"
@@ -78,11 +83,11 @@ map E1M4 "H4ngar"
 	Music = "D_E1M1"
 }
 
-map E1M5 "Hangar Five"
+map E1M1E "Hangar Five"
 {
 	Author = "FishyClockwork" 
 	LevelNum = 5
-	Next = E1M6
+	Next = E1M1F
 	Sky1 = SKY1
 	Cluster = 1
 	exitpic = "$IN_E1"
@@ -90,11 +95,11 @@ map E1M5 "Hangar Five"
 	Music = "D_E1M1"
 }
 
-map E1M6 "Hangar666.exe"
+map E1M1F "Hangar666.exe"
 {
 	Author = "YukiHerz" 
 	LevelNum = 6
-	Next = E1M7
+	Next = E1M1G
 	Sky1 = SKY1
 	Cluster = 1
 	exitpic = "$IN_E1"
@@ -102,11 +107,11 @@ map E1M6 "Hangar666.exe"
 	Music = "D_E1M1"
 }
 
-map E1M7 "Hangar 7: The Hangaring"
+map E1M1G "Hangar 7: The Hangaring"
 {
 	Author = "Rachael" 
 	LevelNum = 7
-	Next = E1M8
+	Next = E1M1H
 	Sky1 = SKY1
 	Cluster = 1
 	exitpic = "$IN_E1"
@@ -114,7 +119,7 @@ map E1M7 "Hangar 7: The Hangaring"
 	Music = "D_E1M1"
 }
 
-map E1M8 "HangarVIII - The Snyder cut"
+map E1M1H "HangarVIII - The Snyder cut"
 {
 	Author = "Vostyok" 
 	LevelNum = 8
