@@ -1,0 +1,8 @@
+- Add some texture variation across the level
+- Add some decorative geometry to make the areas less bland
+- Make the chasm completely passable, the chasm switch can now be both shot and +used
+- Convert the map to UDMF
+- Add a portal hallway with a secret
+- Add a "scare" baron in the blue carpet room. It teleports to a later part of the level. (It becomes a pinky on lower difficulties)
+- Add some ammo to deal with said baron when you encounter him
+- Add some critters to the nukage passage in order to deplete the player's resources a bit.
