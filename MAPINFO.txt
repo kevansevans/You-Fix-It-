@@ -123,6 +123,17 @@ map E1M1H "HangarVIII - The Snyder cut"
 {
 	Author = "Vostyok" 
 	LevelNum = 8
+	Next = E1M1I
+	Sky1 = MARSKY
+	Cluster = 1
+	exitpic = "$IN_E1"
+	enterpic = "$IN_E1"
+	Music = "D_E1M1"
+}
+map E1M1I "Hangar 18/2"
+{
+	Author = "Wivicer" 
+	LevelNum = 9
 	Sky1 = MARSKY
 	Cluster = 1
 	exitpic = "$IN_E1"
