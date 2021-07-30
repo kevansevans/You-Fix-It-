@@ -134,9 +134,21 @@ map E1M1I "Hangar 18/2"
 {
 	Author = "Wivicer" 
 	LevelNum = 9
+	secretnext = E1M1J
 	Sky1 = MARSKY
 	Cluster = 1
 	exitpic = "$IN_E1"
 	enterpic = "$IN_E1"
 	Music = "D_E1M1"
+}
+map E1M1J "Hang 'Em"
+{
+	Author = "Dewzanity" 
+	LevelNum = 10
+	Sky1 = SKY3 //that one red plutonia sky from maps 21-30
+	Cluster = 1
+	exitpic = "$IN_E1"
+	enterpic = "$IN_E1"
+	par = 2700
+	Music = "D_E1M10" //Map 32's new midi from the Plutonia Midi Pack BUT!!! It's 5 semitones lower, and plays exactly at 82.5% tempo.
 }
